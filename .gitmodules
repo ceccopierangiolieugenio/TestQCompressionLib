@@ -1,0 +1,3 @@
+[submodule "lib/Qliblzma"]
+	path = lib/Qliblzma
+	url = https://github.com/ceccopierangiolieugenio/Qliblzma.git
