@@ -1,3 +1,12 @@
+/*
+ * This test is loosely based on:
+ *
+ * http://git.tukaani.org/xz.git
+ *     doc/examples_old/xz_pipe_decomp.c
+ *
+ * https://git.tukaani.org/?p=xz.git;a=blob;f=doc/examples_old/xz_pipe_decomp.c
+ */
+
 #include <QDebug>
 #include <QFile>
 
